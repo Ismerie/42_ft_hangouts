@@ -1,0 +1,24 @@
+# --- IDE ---
+.idea/
+*.iml
+.DS_Store
+captures/
+
+# --- Gradle ---
+.gradle/
+build/
+/build
+/*/build
+
+# --- Android Specific ---
+local.properties
+.externalNativeBuild
+.cxx/
+*.apk
+*.aar
+*.bundle
+
+# --- System/OS ---
+*.swp
+*~
+.stackdump
